@@ -2,6 +2,7 @@
 import { useState }  from "react";
 import Navbar from "./components/Navbar";
 import Textbox from "./components/Textbox";
+import About from "./components/About";
 
 function App() {
   const [ mode , setMode]=useState("primary");
@@ -21,7 +22,8 @@ function App() {
     <Navbar mode={mode} toggle={toggle}/>
     
     
-    <Textbox mode={mode} />
+     
+      <About mode={mode}/>
     </>
   );
 }
