@@ -1,3 +1,10 @@
+"TextonTrack" is a versatile React project designed to streamline text manipulation tasks with ease. Whether you're looking to convert text to uppercase or lowercase, count characters or words, this app has you covered. With a user-friendly interface and efficient functionality, TextonTrack simplifies text-related operations, enhancing productivity and convenience.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
